@@ -17,7 +17,10 @@ Created with net 8.0<br>
 inputfile<br>
 ![image](https://github.com/matahino/morphological-analysis/assets/96413690/00b20295-c1f2-4e31-a33d-4f3d72709d7e)<br><br>
 
-
+The library and interface provide functionality.
+LIBRARY eliminates duplicate expressions.
+If you search for the word before "tab" and find the same thing, search for the characters after "tab" and if they are the same, it is considered a duplicate expression.
+The interface adds functions by referring to instances of the Mecab class for morphological analysis.<br><br>
 ![image](https://github.com/matahino/morphological-analysis/assets/96413690/5ff0bcfc-3b90-4b5f-a3cc-e54b657d6ac7)<br><br>
 
 
