@@ -4,24 +4,24 @@
 
 Created with net 8.0<br>
 
-![image](https://github.com/matahino/morphological-analysis/assets/96413690/01bb01af-4766-4f77-8343-8e97e15d491a)<br>
+![image](https://github.com/matahino/morphological-analysis/assets/96413690/01bb01af-4766-4f77-8343-8e97e15d491a)<br><br>
 
 
 
-![image](https://github.com/matahino/morphological-analysis/assets/96413690/13f214db-9663-41d3-8859-d1f5e633122d)<br>
+![image](https://github.com/matahino/morphological-analysis/assets/96413690/13f214db-9663-41d3-8859-d1f5e633122d)<br><br>
 
 
 
 inputfile<br>
-![image](https://github.com/matahino/morphological-analysis/assets/96413690/00b20295-c1f2-4e31-a33d-4f3d72709d7e)<br>
+![image](https://github.com/matahino/morphological-analysis/assets/96413690/00b20295-c1f2-4e31-a33d-4f3d72709d7e)<br><br>
 
 
-![image](https://github.com/matahino/morphological-analysis/assets/96413690/5ff0bcfc-3b90-4b5f-a3cc-e54b657d6ac7)<br>
+![image](https://github.com/matahino/morphological-analysis/assets/96413690/5ff0bcfc-3b90-4b5f-a3cc-e54b657d6ac7)<br><br>
 
 
-![image](https://github.com/matahino/morphological-analysis/assets/96413690/1d452430-15f3-408a-a064-7f05a5b73586)<br>
+![image](https://github.com/matahino/morphological-analysis/assets/96413690/1d452430-15f3-408a-a064-7f05a5b73586)<br><br>
 
 
 ![image](https://github.com/matahino/morphological-analysis/assets/96413690/feaa6eba-fd4c-4905-8c47-d7c67a3f2bb8)
-Form1.cs
+Form1.cs　<br>
 Enter the analysis program for the language you wish to add here.
