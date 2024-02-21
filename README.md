@@ -22,3 +22,6 @@ inputfile<br>
 ![image](https://github.com/matahino/morphological-analysis/assets/96413690/1d452430-15f3-408a-a064-7f05a5b73586)<br>
 
 
+![image](https://github.com/matahino/morphological-analysis/assets/96413690/feaa6eba-fd4c-4905-8c47-d7c67a3f2bb8)
+Form1.cs
+Enter the analysis program for the language you wish to add here.
