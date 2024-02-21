@@ -2,7 +2,7 @@
 
 ![image](https://github.com/matahino/morphological-analysis/assets/96413690/1ff313d4-2edc-4224-92cc-c91052368012)
 
-
+![image](https://github.com/matahino/morphological-analysis/assets/96413690/ba2cf109-203d-4899-a738-2234804e8aef)
 
 ![image](https://github.com/matahino/morphological-analysis/assets/96413690/e2faae22-2793-45a6-ba95-ea7a5895ceef)
 
