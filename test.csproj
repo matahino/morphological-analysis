@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MeCab.DotNet" Version="1.2.0" />
+  </ItemGroup>
+
+
+<ItemGroup>
+  <Reference Include="Preprocessing">
+    <HintPath>Preprocessing.dll</HintPath>
+  </Reference>
+</ItemGroup>
+
+</Project>
